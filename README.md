@@ -20,4 +20,4 @@ This is the Official Website for RCPIT-Converges-2023
 
 # Team Members :
   1. Tejas Shimpi : https://github.com/ShimpiTejas
-  2. 
+  2. Vedant Gujarathi : https://github.com/VedantGujarathi
