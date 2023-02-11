@@ -23,3 +23,4 @@ This is the Official Website for RCPIT-Converges-2023
 2. Pruthviraj Sharma : https://github.com/PruthvirajSharma
 3. Vedant Gujarathi : https://github.com/VedantGujarathi
 4. Vishal Patil : https://github.com/vishpatil215
+5. Vishal Vanjari : https://github.com/VishalVanjari
